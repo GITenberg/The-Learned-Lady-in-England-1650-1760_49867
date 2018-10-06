@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Learned Lady in England, 1650-1760
 url: http://www.gutenberg.org/ebooks/49867
